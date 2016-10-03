@@ -1,0 +1,39 @@
+{
+	"songs":[
+		{
+			"id": 0,
+			"nombre": "Pupilas Lejanas",
+			"artist": "Los Pericos",
+			"song": "music/pupilaslejanas.mp3",
+			"imge": "img/lospericos.jpg",
+		}
+		{
+			"id": 0,
+			"nombre": "Pupilas Lejanas",
+			"artist": "Los Pericos",
+			"song": "music/pupilaslejanas.mp3",
+			"imge": "img/lospericos.jpg",
+		}
+		{
+			"id": 0,
+			"nombre": "Pupilas Lejanas",
+			"artist": "Los Pericos",
+			"song": "music/pupilaslejanas.mp3",
+			"imge": "img/lospericos.jpg",
+		}
+		{
+			"id": 0,
+			"nombre": "Pupilas Lejanas",
+			"artist": "Los Pericos",
+			"song": "music/pupilaslejanas.mp3",
+			"imge": "img/lospericos.jpg",
+		}
+		{
+			"id": 0,
+			"nombre": "Pupilas Lejanas",
+			"artist": "Los Pericos",
+			"song": "music/pupilaslejanas.mp3",
+			"imge": "img/lospericos.jpg",
+		}
+	]
+}
