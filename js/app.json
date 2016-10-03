@@ -2,38 +2,24 @@
 	"songs":[
 		{
 			"id": 0,
-			"nombre": "Pupilas Lejanas",
-			"artist": "Los Pericos",
-			"song": "music/pupilaslejanas.mp3",
-			"imge": "img/lospericos.jpg",
-		}
+			"name": "Sweet Child O' Mine",
+			"artist": "Guns N' Roses",
+			"song": "music/SweetChildOMine.mp3",
+			"img": "img/albums/gunsandroses.jpg"
+		},
 		{
-			"id": 0,
-			"nombre": "Pupilas Lejanas",
-			"artist": "Los Pericos",
-			"song": "music/pupilaslejanas.mp3",
-			"imge": "img/lospericos.jpg",
-		}
+			"id": 1,
+			"name": "Welcome To The Jungle.mp3",
+			"artist": "Guns N' Roses",
+			"song": "music/WelcomeToTheJungle.mp3",
+			"img": "img/albums/gunsandroses.jpg"
+		},
 		{
-			"id": 0,
-			"nombre": "Pupilas Lejanas",
-			"artist": "Los Pericos",
-			"song": "music/pupilaslejanas.mp3",
-			"imge": "img/lospericos.jpg",
-		}
-		{
-			"id": 0,
-			"nombre": "Pupilas Lejanas",
-			"artist": "Los Pericos",
-			"song": "music/pupilaslejanas.mp3",
-			"imge": "img/lospericos.jpg",
-		}
-		{
-			"id": 0,
-			"nombre": "Pupilas Lejanas",
-			"artist": "Los Pericos",
-			"song": "music/pupilaslejanas.mp3",
-			"imge": "img/lospericos.jpg",
-		}
+			"id": 2,
+			"name": "Smells Like Teen Spirit",
+			"artist": "Nirvana",
+			"song": "music/SmellsLikeTeenSpirit.mp3",
+			"img": "img/albums/nirvana.png"
+		}		
 	]
 }
